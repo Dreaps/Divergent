@@ -1,0 +1,29 @@
+{
+    "name": "Dreaps/Divergent",
+    "description": "PHP Framework",
+	"version": "1.0.0",
+	"type": "library",
+	"homepage": "http://dreaps.com/",
+	"license": "MIT",
+	"authors": [
+        {
+            "name": "Man Of Wind",
+            "email": "Mahdi@Dreaps.com",
+            "homepage": "http://dreaps.com/",
+            "role": "Developer"
+        }
+    ],
+	"support": {
+        "email": "info@Dreaps.com",
+		"issues": "https://github.com/Drepas/Divergent/issues",
+        "wiki": "https://github.com/Drepas/Divergent/wiki",
+        "source": "https://github.com/Drepas/Divergent"
+    },
+	"config": {
+        "vendor-dir": "Libraries",
+		"autoloader-suffix": "Divergent"
+    },
+	"require-dev": {
+        "phpunit/phpunit": ">=5"
+    }
+}
