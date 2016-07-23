@@ -8,3 +8,4 @@
 [![composer.lock](https://poser.pugx.org/dreaps/divergent/composerlock)](https://packagist.org/packages/dreaps/divergent)
 [![codecov](https://codecov.io/gh/Drepas/Divergent/branch/V-1.0.0/graph/badge.svg)](https://codecov.io/gh/Drepas/Divergent)
 [![Build Status](https://semaphoreci.com/api/v1/dreaps/divergent/branches/v-1-0-0/badge.svg)](https://semaphoreci.com/dreaps/divergent)
+[![Code Issues](https://www.quantifiedcode.com/api/v1/project/a1a4eb0ae5c34f148914991dbba9d6ef/badge.svg)](https://www.quantifiedcode.com/app/project/a1a4eb0ae5c34f148914991dbba9d6ef)
