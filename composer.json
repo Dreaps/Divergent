@@ -1,5 +1,5 @@
 {
-    "name": "dreaps/divergent",
+    "name": "dreapsco/divergent",
     "description": "PHP Framework",
 	"version": "1.0.0",
 	"type": "library",
@@ -15,9 +15,9 @@
     ],
 	"support": {
         "email": "info@Dreaps.com",
-		"issues": "https://github.com/Drepas/Divergent/issues",
-        "wiki": "https://github.com/Drepas/Divergent/wiki",
-        "source": "http://github.com/Drepas/Divergent"
+		"issues": "https://github.com/DrepasCo/Divergent/issues",
+        "wiki": "https://github.com/DrepasCo/Divergent/wiki",
+        "source": "http://github.com/DrepasCo/Divergent"
     },
 	"config": {
         "vendor-dir": "Libraries",
