@@ -15,9 +15,9 @@
     ],
 	"support": {
         "email": "info@Dreaps.com",
-		"issues": "https://github.com/DrepasCo/Divergent/issues",
-        "wiki": "https://github.com/DrepasCo/Divergent/wiki",
-        "source": "http://github.com/DrepasCo/Divergent"
+		"issues": "https://github.com/DreapsCo/Divergent/issues",
+        "wiki": "https://github.com/DreapsCo/Divergent/wiki",
+        "source": "http://github.com/DreapsCo/Divergent"
     },
 	"config": {
         "vendor-dir": "Libraries",
