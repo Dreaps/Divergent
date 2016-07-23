@@ -6,3 +6,4 @@
 [![Latest Unstable Version](https://poser.pugx.org/dreaps/divergent/v/unstable)](https://packagist.org/packages/dreaps/divergent)
 [![License](https://poser.pugx.org/dreaps/divergent/license)](https://packagist.org/packages/dreaps/divergent)
 [![composer.lock](https://poser.pugx.org/dreaps/divergent/composerlock)](https://packagist.org/packages/dreaps/divergent)
+[![codecov](https://codecov.io/gh/Drepas/Divergent/branch/V-1.0.0/graph/badge.svg)](https://codecov.io/gh/Drepas/Divergent)
