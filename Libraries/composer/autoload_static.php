@@ -22,6 +22,7 @@ class ComposerStaticInitDivergent
         'D' => 
         array (
             'Doctrine\\Instantiator\\' => 22,
+            'Divergent\\' => 10,
             'DeepCopy\\' => 9,
         ),
     );
@@ -44,6 +45,11 @@ class ComposerStaticInitDivergent
         'Doctrine\\Instantiator\\' => 
         array (
             0 => __DIR__ . '/..' . '/doctrine/instantiator/src/Doctrine/Instantiator',
+        ),
+        'Divergent\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/Overwrite',
+            1 => '/',
         ),
         'DeepCopy\\' => 
         array (

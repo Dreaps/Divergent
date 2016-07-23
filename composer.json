@@ -23,7 +23,10 @@
         "vendor-dir": "Libraries",
 		"autoloader-suffix": "Divergent"
     },
+    "autoload": {
+        "psr-4": { "Divergent\\": ["Overwrite/", "/"] }
+    },
 	"require-dev": {
-        "phpunit/phpunit": ">=5"
+        "phpunit/phpunit": "5.4.*"
     }
 }
