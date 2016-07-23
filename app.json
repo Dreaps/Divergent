@@ -1,0 +1,16 @@
+{
+  "name": "divergent",
+  "description": "PHP Framework",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
