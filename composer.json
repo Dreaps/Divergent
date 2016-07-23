@@ -22,7 +22,6 @@
 	"config": {
         "vendor-dir": "Libraries",
 		"autoloader-suffix": "Divergent",
-		"secure-http": false
     },
     "autoload": {
         "psr-4": { "Divergent\\": ["Overwrite/", "/"] }
