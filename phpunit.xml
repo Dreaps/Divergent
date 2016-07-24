@@ -10,8 +10,17 @@
     <!-- Add any additional test suites you want to run here -->
     <testsuites>
         <testsuite name="Filesystem">
-            <directory>./Tests/TestCase/Filesystem</directory>
+            <directory>./Tests/TestCase/Kernel/Filesystem</directory>
         </testsuite>
+		<testsuite name="Filesystem-Directory">
+			<directory>./Tests/TestCase/Kernel/Filesystem</directory>
+			<file>./Tests/TestCase/Kernel/Filesystem/DirectoryTest.php</file>
+		</testsuite>
         <!-- Add plugin test suites here. -->
     </testsuites>
+	
+	<logging>
+     <log type="coverage-clover" target="build/logs/clover.xml"/>
+	</logging>
+
 </phpunit>

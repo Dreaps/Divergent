@@ -1,0 +1,66 @@
+<?php
+
+
+defined('DIVERGENT') or exit('NO DICE!');
+
+// General Directory
+
+define('DIVERGENT_DIR_APP', DIVERGENT_DIR . 'App' . DS);
+
+define('DIVERGENT_DIR_KERNEL', DIVERGENT_DIR . 'Kernel' . DS);
+
+define('DIVERGENT_DIR_LIB', DIVERGENT_DIR_KERNEL . 'Libraries' . DS);
+
+// APP Directory
+
+define('DIVERGENT_DIR_CONFIG', DIVERGENT_DIR_APP . 'Config' . DS);
+
+define('DIVERGENT_DIR_CONSOLE', DIVERGENT_DIR_APP . 'Console' . DS);
+
+define('DIVERGENT_DIR_FILE', DIVERGENT_DIR_APP . 'File' . DS);
+
+define('DIVERGENT_DIR_LANGUAGE', DIVERGENT_DIR_APP . 'Language' . DS);
+
+define('DIVERGENT_DIR_MODULE', DIVERGENT_DIR_APP . 'Module' . DS);
+
+define('DIVERGENT_DIR_OVERRIDE', DIVERGENT_DIR_APP . 'Override' . DS);
+
+define('DIVERGENT_DIR_PLUGIN', DIVERGENT_DIR_APP . 'Plugin' . DS);
+
+define('DIVERGENT_DIR_TMP', DIVERGENT_DIR_APP . 'TMP' . DS);
+
+
+// File Directory
+
+define('DIVERGENT_DIR_CSS', DIVERGENT_DIR_FILE . 'CSS' . DS);
+
+define('DIVERGENT_DIR_JS', DIVERGENT_DIR_FILE . 'JS' . DS);
+
+define('DIVERGENT_DIR_MUSIC', DIVERGENT_DIR_FILE . 'Music' . DS);
+
+define('DIVERGENT_DIR_PIC', DIVERGENT_DIR_FILE . 'Image' . DS);
+
+define('DIVERGENT_DIR_VIDEO', DIVERGENT_DIR_FILE . 'Video' . DS);
+
+define('DIVERGENT_DIR_XML', DIVERGENT_DIR_FILE . 'XML' . DS);
+
+
+
+// TMP Directory
+
+define('DIVERGENT_DIR_CACHE', DIVERGENT_DIR_TMP . 'Cache' . DS);
+
+define('DIVERGENT_DIR_COMPILE', DIVERGENT_DIR_TMP . 'Compile' . DS);
+
+define('DIVERGENT_DIR_CRON', DIVERGENT_DIR_TMP . 'Cron' . DS);
+
+define('DIVERGENT_DIR_GZIP', DIVERGENT_DIR_TMP . 'GZip' . DS);
+
+define('DIVERGENT_DIR_LOGS', DIVERGENT_DIR_TMP . 'Logs' . DS);
+
+define('DIVERGENT_DIR_SESSIONS', DIVERGENT_DIR_TMP . 'Sessions' . DS);
+
+
+
+
+?>
