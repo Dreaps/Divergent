@@ -61,19 +61,6 @@ interface DirectoryInterface
     public function chmod($path, $mode = false, $recursive = true, array $exceptions = []);
 
     /**
-     * @param null $path
-     * @return mixed
-     */
-    public function subdirectories($path = null);
-
-    /**
-     * @param null $path
-     * @param bool $exceptions
-     * @return mixed
-     */
-    public function tree($path = null, $exceptions = false);
-
-    /**
      * @param $pathname
      * @param bool $mode
      * @return mixed
